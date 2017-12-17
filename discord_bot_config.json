@@ -1,0 +1,6 @@
+﻿{
+	'DiscordAppToken':YourAppToken',
+	'DiscordCannelId':'YourCannelId',
+	'DiscordBotName':'YourBotName',
+	'LanguageID':0
+}
